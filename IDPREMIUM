@@ -965,7 +965,7 @@ https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 
 ###################
 
-#EXTINF:-1 tvg-id="MoviesWorld1" tvg-name="MoviesWorld1" tvg-logo="https://i.postimg.cc/fLz6z42j/download-43.jpg" group-title="Movies Campuran", Movies World 1 TH
+#EXTINF:-1 tvg-id="MoviesWorld1" tvg-name="MoviesWorld1" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASTRO FIRST (ASTRO GO)", MOVIE WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
 
