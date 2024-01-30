@@ -963,24 +963,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="Movies Campuran",ALPO (720p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 
-###################
+#####################№####
 
-#EXTINF:-1 tvg-id="MoviesWorld1" tvg-name="MoviesWorld1" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASTRO FIRST (ASTRO GO)", MOVIE WORLD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
-
-#EXTINF:-1 tvg-id="MoviesWorld2" tvg-name="MoviesWorld2" tvg-logo="https://i.postimg.cc/fLz6z42j/download-43.jpg" group-title="Movies Campuran", Movies World 2 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
-
-#EXTINF:-1 tvg-id="MoviesWorld3" tvg-name="MoviesWorld3" tvg-logo="https://i.postimg.cc/fLz6z42j/download-43.jpg" group-title="Movies Campuran", Movies World 3 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
-
-#EXTINF:-1 tvg-id="NongkhaiMovies" tvg-name="NongkhaiMovies" tvg-logo="https://drive.google.com/uc?id=1o4QMVUKaNfGH1LD0aelim-OPVWatLcHg" group-title="Movies Campuran", Nongkhai Movies
+#EXTINF:-1 tvg-id="NongkhaiMovies" tvg-name="NongkhaiMovies" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASTRO FIRST (ASTRO GO)", Nongkhai Movies
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TheHungerGames2023" tvg-name="TheHungerGames2023" tvg-logo="https://i.postimg.cc/g2f9LvVL/film-the-hunger-games-the-ballad-of-songbirds-snakes-2023-lk21-d21-jpg.jpg" group-title="English Movies",The Hunger Games:The Ballads Of Songbirds & Snakes (2023)
+#EXTINF:-1 tvg-id="TheHungerGames" tvg-name="TheHungerGames" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASTRO FIRST (ASTRO GO)", The Hunger Games:The Ballads Of Songbirds & Snakes (2023)
 https://stream.hownetwork.xyz/xxx/the-hunger-games-the-ballad-of-songbirds-snakes-2023-webdl_X_42b04af2/19/480.m3u8|referer=https://stream.hownetwork.xyz
 
 #EXTINF:-1 tvg-id="WALID (2023)" tvg-name="WALID (2023)" tvg-logo="https://i.postimg.cc/pL7991cQ/film-walid-2023-lk21-d21-jpg.jpg" group-title="Malaysian Movies",WALID (2023)
