@@ -12,12 +12,21 @@ https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196
 #EXTM3U billed-msg=" tiktok.com/@zulluz87 untuk mendapatkan trial terbaru "
 
 ==========================================================================================================
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title=""🇲🇾 ASTRO (BACKUP)" tvg-id="AstroWarna" tvg-name="AstroWarna", Astro Warna HD
+http://startv365.com:80//live/D85A79B4/55A7743D/191874.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="🇲🇾 ASTRO (BACKUP)" tvg-id="AstroRia" tvg-name="AstroRia", Astro Ria HD
+http://startv365.com:80//live/D85A79B4/55A7743D/79321.ts
+
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="🇲🇾 ASTRO (BACKUP)" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="104",104 Digital Ria FHD (Temporary)
+http://startv365.com//live/D85A79B4/55A7743D/79321.ts
+
+
+==========================================================================================================
 
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png",SUKE TV
 https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
 #https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
-
-==========================================================================================================
 
 #EXTINF:-1 tvg-id="701" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
