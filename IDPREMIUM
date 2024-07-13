@@ -105,7 +105,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="" group-title="Astro",Citra 
-https://linears-playback.astro.com.my/vsg/41R5NwxIWNIOv3hCSXilwexY_jsLIr2rlvmqU3rFtbarY=pdbx/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/414HebmoCya8QPKLeOsr-x39AXo7cBEICUBI6k5WpjwNA=GgIE/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -131,12 +131,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="" group-title="Astro",Ria 
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDXitKJmYnGpeS4I2ujnyx1I=52vj/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41BXDYDHvZ1f9jWD6-Dz7Dx9CdQf-WH5L32QEy5ft6UWg=nB04/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="107.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="" group-title="Astro",Warna 
-https://linears-playback.astro.com.my/vsg/41oN22S51uUDo8E9ET1Tb2PhhUkjxhY-Q0TNfJ7D9no9w=KCia/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41_Pg7lR7LRqRZqVYvZ7TLRuc0_shJ-iYbZKN3Z570lSY=DY_o/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
@@ -456,7 +456,7 @@ http://opplex.tv:8080//live/83212539/43153928/66315.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ], "Astro":"temporary" }
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png" group-title="FHD",Syfy 
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png" group-title="Astro",Syfy 
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -611,7 +611,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/190px-Premier_sports_logo_2018.svg.png?20180923092838" group-logo="Astro" group-title="FHD",Premier Sports 
+#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/190px-Premier_sports_logo_2018.svg.png?20180923092838" group-logo="" group-title="Astro",Premier Sports 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
