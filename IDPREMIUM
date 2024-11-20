@@ -1,5 +1,23 @@
-
 #EXTM3U
+
+############
+
+http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
+http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
+http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
+http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
+http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
+http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
+http://d1w72er2qn2fg9.cloudfront.net/aec.mpd
+http://d1w72er2qn2fg9.cloudfront.net/qj.mpd
+http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
+http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
+http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
+http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
+http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
+http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
+
+###########
 
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://perfecttv.net/logo/tv1.png", 101 TV1
  #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -125,6 +143,7 @@ http://linearjitp.perfecttv.net/prima.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp.perfecttv.net/ria.mpd
+http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://perfecttv.net/logo/warna.png" ,120 Warna
