@@ -10,7 +10,8 @@ http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
 http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
 http://d1w72er2qn2fg9.cloudfront.net/aec.mpd
 http://d1w72er2qn2fg9.cloudfront.net/qj.mpd
-http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
+http://d1w72er2qn2fg9.cloudfront.n
+et/aod.mpd
 http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
 http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
@@ -589,7 +590,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-id="KIX.id" group-title="ENTERTAINMENT" tvg-logo="https://perfecttv.net/logo/kix.png",169 KIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -876,63 +877,63 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/football.png" group-logo="",809 Astro Football
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/football.png" group-logo="",809 Astro Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 http://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton2.png" group-logo="",809 Astro Badminton 2
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton2.png" group-logo="",809 Astro Badminton 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/sportplus.png" group-logo="",809 Astro Sport Plus
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/sportplus.png" group-logo="",809 Astro Sport Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/astrocricket.png" group-logo="",809 Astro Cricket
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/astrocricket.png" group-logo="",809 Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="816.astro" tvg-logo="https://perfecttv.net/logo/spotv.png" group-logo="", 810 SPOTV
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="816.astro" tvg-logo="https://perfecttv.net/logo/spotv.png" group-logo="", 810 SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="810.astro" tvg-logo="https://perfecttv.net/logo/spotv2.png" group-logo="", 811 SPOTV 2 
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="810.astro" tvg-logo="https://perfecttv.net/logo/spotv2.png" group-logo="", 811 SPOTV 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
-#EXTINF:-1 tvg-id="708.unifi" ch-number="708" tvg-name="beIN Sports" tvg-logo="https://perfecttv.net/logo/bein1.png" group-title="âš½ï¸Ž SPORTS",812 beIN 1
+#EXTINF:-1 tvg-id="708.unifi" ch-number="708" tvg-name="beIN Sports" tvg-logo="https://perfecttv.net/logo/bein1.png" group-title="SPORTS",812 beIN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-1 player-buffer="2" tvg-id="817.astro" ch-number="711" tvg-name="beIN Sports 2" tvg-logo="https://perfecttv.net/logo/bein2.png" group-title="âš½ï¸Ž SPORTS",813 beIN 2
+#EXTINF:-1 player-buffer="2" tvg-id="817.astro" ch-number="711" tvg-name="beIN Sports 2" tvg-logo="https://perfecttv.net/logo/bein2.png" group-title="SPORTS",813 beIN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="819.astro" tvg-logo="https://perfecttv.net/logo/bein3.png" group-logo="", 813 beIN 3
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="819.astro" tvg-logo="https://perfecttv.net/logo/bein3.png" group-logo="", 813 beIN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1 tvg-id="710.unifi" ch-number="710" tvg-logo="https://perfecttv.net/logo/bein4.png" group-title="âš½ï¸Ž SPORTS",813 beIN 4
+#EXTINF:-1 tvg-id="710.unifi" ch-number="710" tvg-logo="https://perfecttv.net/logo/bein4.png" group-title="SPORTS",813 beIN 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -941,42 +942,42 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 https://web.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="815.astro" tvg-logo="https://perfecttv.net/logo/wsport.png" group-logo="" , 814 W-Sport
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="815.astro" tvg-logo="https://perfecttv.net/logo/wsport.png" group-logo="" , 814 W-Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="823.astro" tvg-logo="https://perfecttv.net/logo/premiersports.png" ,815 Premier Sports
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="823.astro" tvg-logo="https://perfecttv.net/logo/premiersports.png" ,815 Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="WWENetwork" tvg-logo="https://perfecttv.net/logo/wwe.png" group-logo="", 817 WWE Network
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="WWENetwork" tvg-logo="https://perfecttv.net/logo/wwe.png" group-logo="", 817 WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="822.astro" tvg-logo="https://perfecttv.net/logo/golf.png" group-logo="", 818 Golf
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="822.astro" tvg-logo="https://perfecttv.net/logo/golf.png" group-logo="", 818 Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="820.astro" tvg-logo="https://perfecttv.net/logo/eurosport.png" group-logo="" group-title ="",819 EuroSport
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="820.astro" tvg-logo="https://perfecttv.net/logo/eurosport.png" group-logo="" group-title ="",819 EuroSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
-#EXTINF:-1 group-title="âš½ï¸Ž SPORTS" tvg-id="NBA"  tvg-logo="https://perfecttv.net/logo/nbatv.png",820 NBA TV
+#EXTINF:-1 group-title="SPORTS" tvg-id="NBA"  tvg-logo="https://perfecttv.net/logo/nbatv.png",820 NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
-#EXTINF:-1 group-title="âš½ï¸Ž SPORTS" tvg-id="Fight Sport"  tvg-logo="https://perfecttv.net/logo/fightsport.png", 821 FIGHT SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fight Sport"  tvg-logo="https://perfecttv.net/logo/fightsport.png", 821 FIGHT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
@@ -998,13 +999,13 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/3
 #EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://perfecttv.net/logo/citra.png" group-title="MALAYSIA",121 Citra(B)
 http://perfecttv.net:8080/Perfecttv/Perfecttv/4
-#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="âš½ï¸Ž SPORTS",803 Arena Bola
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="SPORTS",803 Arena Bola
 http://perfecttv.net:8080/Perfecttv/Perfecttv/6
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="âš½ï¸Ž SPORTS",804 Arena Bola 2
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="SPORTS",804 Arena Bola 2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/7
-#EXTINF:-1 tvg-id="" tvg-name="806 Premier League" tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="âš½ï¸Ž SPORTS",806 Premier League
+#EXTINF:-1 tvg-id="" tvg-name="806 Premier League" tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="SPORTS",806 Premier League
 http://perfecttv.net:8080/Perfecttv/Perfecttv/8
-#EXTINF:-1 tvg-id="" tvg-name="807 806 Premier League 2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="âš½ï¸Ž SPORTS",807 806 Premier League 2
+#EXTINF:-1 tvg-id="" tvg-name="807 806 Premier League 2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="SPORTS",807 806 Premier League 2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/9
 #EXTINF:-1 tvg-id="" tvg-name="127 QJ" tvg-logo="https://perfecttv.net/logo/qj.png" group-title="CHINESE",127 QJ
 http://perfecttv.net:8080/Perfecttv/Perfecttv/11
@@ -1026,211 +1027,211 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1551
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1552
 #EXTINF:-1 tvg-id="" tvg-name="161 Cinemachi Max" tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="MOVIES",161 Cinemachi Max
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1553
-#EXTINF:-1 tvg-id="" tvg-name="951-Kill 'em All 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppV7u5flh7QJfL8R0omYZrRf31P.jpg" group-title="â–¶ VOD ENGLISH",951-Kill 'em All 2 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="951-Kill 'em All 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppV7u5flh7QJfL8R0omYZrRf31P.jpg" group-title="VOD ENGLISH",951-Kill 'em All 2 (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/19.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Mother (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbEfmMKzubMy6zeCqmLZsYAEZLG6E2EY6Yf9M5eM_NfMzhJYVdOog6-nR4mP-ShsnyhC8AVvJtp1spu1imHZYBcIxf_p-S9YJ5nL80MMObUJnnUAVYBR6nguZkQLsQC7Icpa.jpg?r=ec6" group-title="â–¶ VOD NETFLIX",The Mother (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sinkhole (2021)" tvg-logo="https://pic7.iqiyipic.com/image/20220514/7f/ee/v_167187233_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",Sinkhole (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Sinkhole (2021)" tvg-logo="https://pic7.iqiyipic.com/image/20220514/7f/ee/v_167187233_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",Sinkhole (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/21.mp4
-#EXTINF:-1 tvg-id="" tvg-name="989-Lost Destiny (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240924/c1/01/v_176549722_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",989-Lost Destiny (2024)
+#EXTINF:-1 tvg-id="" tvg-name="989-Lost Destiny (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240924/c1/01/v_176549722_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",989-Lost Destiny (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="988-The Mystery of Jade (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240410/8f/36/v_175795330_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",988-The Mystery of Jade (2024)
+#EXTINF:-1 tvg-id="" tvg-name="988-The Mystery of Jade (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240410/8f/36/v_175795330_m_601_en_720_405.jpg" group-title="VOD ENGLISH",988-The Mystery of Jade (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/23.mp4
-#EXTINF:-1 tvg-id="" tvg-name="987-SWAT: Angels in Mission (2024)" tvg-logo="https://pic6.iqiyipic.com/image/20241007/61/1b/v_178440410_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",987-SWAT: Angels in Mission (2024)
+#EXTINF:-1 tvg-id="" tvg-name="987-SWAT: Angels in Mission (2024)" tvg-logo="https://pic6.iqiyipic.com/image/20241007/61/1b/v_178440410_m_601_en_720_405.jpg" group-title="VOD ENGLISH",987-SWAT: Angels in Mission (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/24.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Unbelievable (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20220527/83/06/v_167585812_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",The Unbelievable (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Unbelievable (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20220527/83/06/v_167585812_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",The Unbelievable (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/25.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wolf Hiding (2023)" tvg-logo="https://pic4.iqiyipic.com/image/20240311/45/66/v_175601840_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",Wolf Hiding (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Wolf Hiding (2023)" tvg-logo="https://pic4.iqiyipic.com/image/20240311/45/66/v_175601840_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",Wolf Hiding (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/26.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Water Monster (2021)" tvg-logo="https://pic9.iqiyipic.com/image/20210826/ce/8f/v_161583210_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Water Monster (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Water Monster (2021)" tvg-logo="https://pic9.iqiyipic.com/image/20210826/ce/8f/v_161583210_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Water Monster (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/27.mp4
-#EXTINF:-1 tvg-id="" tvg-name="986-TOMB GUARDING MAN (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240802/ba/99/v_177390532_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",986-TOMB GUARDING MAN (2024)
+#EXTINF:-1 tvg-id="" tvg-name="986-TOMB GUARDING MAN (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240802/ba/99/v_177390532_m_601_en_720_405.jpg" group-title="VOD ENGLISH",986-TOMB GUARDING MAN (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/28.mp4
-#EXTINF:-1 tvg-id="" tvg-name="985-The Zombies (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240524/f3/68/v_176369938_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",985-The Zombies (2024)
+#EXTINF:-1 tvg-id="" tvg-name="985-The Zombies (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240524/f3/68/v_176369938_m_601_en_720_405.jpg" group-title="VOD ENGLISH",985-The Zombies (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Wicked Wife (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220615/48/a4/v_167699193_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",The Wicked Wife (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Wicked Wife (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220615/48/a4/v_167699193_m_601_en_720_405.jpg" group-title="VOD ENGLISH",The Wicked Wife (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/30.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Vindicator (2020)" tvg-logo="https://pic2.iqiyipic.com/image/20200806/ff/2e/v_150990887_m_601_zh-CN_720_405.jpg" group-title="â–¶ VOD iQiyi",The Vindicator (2020)
+#EXTINF:-1 tvg-id="" tvg-name="The Vindicator (2020)" tvg-logo="https://pic2.iqiyipic.com/image/20200806/ff/2e/v_150990887_m_601_zh-CN_720_405.jpg" group-title="VOD ENGLISH",The Vindicator (2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/31.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The River (2023)" tvg-logo="https://pic2.iqiyipic.com/image/20240308/c9/94/v_172271830_m_601_en_m3_720_405.jpg" group-title="â–¶ VOD iQiyi",The River (2023)
+#EXTINF:-1 tvg-id="" tvg-name="The River (2023)" tvg-logo="https://pic2.iqiyipic.com/image/20240308/c9/94/v_172271830_m_601_en_m3_720_405.jpg" group-title="VOD ENGLISH",The River (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/32.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu (2021)" tvg-logo="http://pic7.iqiyipic.com/image/20210607/c3/2b/v_150114725_m_601_en_m4_720_405.webp" group-title="â–¶ VOD iQiyi",The Queen of Kung Fu (2021)
+#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu (2021)" tvg-logo="http://pic7.iqiyipic.com/image/20210607/c3/2b/v_150114725_m_601_en_m4_720_405.webp" group-title="VOD ENGLISH",The Queen of Kung Fu (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/33.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu 2 (2021)" tvg-logo="https://pic3.iqiyipic.com/image/20210523/c1/cc/v_159310492_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",The Queen of Kung Fu 2 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu 2 (2021)" tvg-logo="https://pic3.iqiyipic.com/image/20210523/c1/cc/v_159310492_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",The Queen of Kung Fu 2 (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/34.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu 3 (2022)" tvg-logo="https://pic5.iqiyipic.com/image/20220804/15/33/v_168546693_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",The Queen of Kung Fu 3 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Queen of Kung Fu 3 (2022)" tvg-logo="https://pic5.iqiyipic.com/image/20220804/15/33/v_168546693_m_601_en_720_405.jpg" group-title="VOD ENGLISH",The Queen of Kung Fu 3 (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/35.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Mystic Nine Side Story: Four Belongs to Abelmoschus (2016)" tvg-logo="https://pic6.iqiyipic.com/image/20200904/d2/f7/v_151135016_m_601_en_m2_720_405.jpg" group-title="â–¶ VOD iQiyi",The Mystic Nine Side Story: Four Belongs to Abelmoschus (2016)
+#EXTINF:-1 tvg-id="" tvg-name="The Mystic Nine Side Story: Four Belongs to Abelmoschus (2016)" tvg-logo="https://pic6.iqiyipic.com/image/20200904/d2/f7/v_151135016_m_601_en_m2_720_405.jpg" group-title="VOD ENGLISH",The Mystic Nine Side Story: Four Belongs to Abelmoschus (2016)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/36.mp4
-#EXTINF:-1 tvg-id="" tvg-name="984-The Mystery of Humanoid Puppet (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240730/31/41/v_177307921_m_601_en_m2_720_405.jpg" group-title="â–¶ VOD iQiyi",984-The Mystery of Humanoid Puppet (2024)
+#EXTINF:-1 tvg-id="" tvg-name="984-The Mystery of Humanoid Puppet (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240730/31/41/v_177307921_m_601_en_m2_720_405.jpg" group-title="VOD ENGLISH",984-The Mystery of Humanoid Puppet (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/37.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Miracle Spy (2021)" tvg-logo="https://pic1.iqiyipic.com/image/20211122/ff/d0/v_163588652_m_601_en_720_405.webp" group-title="â–¶ VOD iQiyi",The Miracle Spy (2021)
+#EXTINF:-1 tvg-id="" tvg-name="The Miracle Spy (2021)" tvg-logo="https://pic1.iqiyipic.com/image/20211122/ff/d0/v_163588652_m_601_en_720_405.webp" group-title="VOD ENGLISH",The Miracle Spy (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/38.mp4
-#EXTINF:-1 tvg-id="" tvg-name="983-The Lord of The Monsters (2024)" tvg-logo="https://pic8.iqiyipic.com/image/20240417/79/13/v_175861863_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",983-The Lord of The Monsters (2024)
+#EXTINF:-1 tvg-id="" tvg-name="983-The Lord of The Monsters (2024)" tvg-logo="https://pic8.iqiyipic.com/image/20240417/79/13/v_175861863_m_601_en_720_405.jpg" group-title="VOD ENGLISH",983-The Lord of The Monsters (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/39.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Legend Of Aqua Witch (2022)" tvg-logo="https://pic2.iqiyipic.com/image/20220830/77/23/v_169047881_m_601_zh-CN_720_405.webp" group-title="â–¶ VOD iQiyi",The Legend Of Aqua Witch (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Legend Of Aqua Witch (2022)" tvg-logo="https://pic2.iqiyipic.com/image/20220830/77/23/v_169047881_m_601_zh-CN_720_405.webp" group-title="VOD ENGLISH",The Legend Of Aqua Witch (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/40.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Kiddie Tomb (2021)" tvg-logo="https://pic8.iqiyipic.com/image/20211119/62/3f/v_163453449_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",The Kiddie Tomb (2021)
+#EXTINF:-1 tvg-id="" tvg-name="The Kiddie Tomb (2021)" tvg-logo="https://pic8.iqiyipic.com/image/20211119/62/3f/v_163453449_m_601_en_720_405.jpg" group-title="VOD ENGLISH",The Kiddie Tomb (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/41.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Godfather of Northeast China (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20221113/76/0e/v_169911206_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",The Godfather of Northeast China (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather of Northeast China (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20221113/76/0e/v_169911206_m_601_en_720_405.jpg" group-title="VOD ENGLISH",The Godfather of Northeast China (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/42.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Forbidden Depths (2021)" tvg-logo="https://pic7.iqiyipic.com/image/20211027/10/1f/v_163064525_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",The Forbidden Depths (2021)
+#EXTINF:-1 tvg-id="" tvg-name="The Forbidden Depths (2021)" tvg-logo="https://pic7.iqiyipic.com/image/20211027/10/1f/v_163064525_m_601_en_720_405.jpg" group-title="VOD ENGLISH",The Forbidden Depths (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/43.mp4
-#EXTINF:-1 tvg-id="" tvg-name="982-The Drunken Prodigy (2024)" tvg-logo="https://pic1.iqiyipic.com/image/20240816/bf/9f/v_177648920_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",982-The Drunken Prodigy (2024)
+#EXTINF:-1 tvg-id="" tvg-name="982-The Drunken Prodigy (2024)" tvg-logo="https://pic1.iqiyipic.com/image/20240816/bf/9f/v_177648920_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",982-The Drunken Prodigy (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/44.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Dragon Hunting Well (2020)" tvg-logo="https://pic9.iqiyipic.com/image/20201102/40/2b/v_153581735_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",The Dragon Hunting Well (2020)
+#EXTINF:-1 tvg-id="" tvg-name="The Dragon Hunting Well (2020)" tvg-logo="https://pic9.iqiyipic.com/image/20201102/40/2b/v_153581735_m_601_en_720_405.jpg" group-title="VOD ENGLISH",The Dragon Hunting Well (2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/45.mp4
-#EXTINF:-1 tvg-id="" tvg-name="981-Strange Tales of Mountain Trvelers (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240919/22/75/v_178096565_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",981-Strange Tales of Mountain Trvelers (2024)
+#EXTINF:-1 tvg-id="" tvg-name="981-Strange Tales of Mountain Trvelers (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240919/22/75/v_178096565_m_601_en_720_405.jpg" group-title="VOD ENGLISH",981-Strange Tales of Mountain Trvelers (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/46.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Strange Door and Dark Blade (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220913/de/e2/v_169138485_m_601_zh-CN_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",Strange Door and Dark Blade (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Strange Door and Dark Blade (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220913/de/e2/v_169138485_m_601_zh-CN_m1_720_405.jpg" group-title="VOD ENGLISH",Strange Door and Dark Blade (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/47.mp4
-#EXTINF:-1 tvg-id="" tvg-name="980-Shuigui Bride (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240617/74/54/v_176871370_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",980-Shuigui Bride (2024)
+#EXTINF:-1 tvg-id="" tvg-name="980-Shuigui Bride (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240617/74/54/v_176871370_m_601_en_720_405.jpg" group-title="VOD ENGLISH",980-Shuigui Bride (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/48.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Royal Monster Hunter (2019)" tvg-logo="https://pic1.iqiyipic.com/image/20200826/6e/09/v_133223409_m_601_zh-CN_m3_720_405.jpg" group-title="â–¶ VOD iQiyi",Royal Monster Hunter (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Royal Monster Hunter (2019)" tvg-logo="https://pic1.iqiyipic.com/image/20200826/6e/09/v_133223409_m_601_zh-CN_m3_720_405.jpg" group-title="VOD ENGLISH",Royal Monster Hunter (2019)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/49.mp4
-#EXTINF:-1 tvg-id="" tvg-name="979-Puppet (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240528/7d/1d/v_176549992_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",979-Puppet (2024)
+#EXTINF:-1 tvg-id="" tvg-name="979-Puppet (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20240528/7d/1d/v_176549992_m_601_en_720_405.jpg" group-title="VOD ENGLISH",979-Puppet (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/50.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Novo Land Floating Hear (2022)" tvg-logo="https://pic9.iqiyipic.com/image/20220621/59/19/v_167789583_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Novo Land Floating Hear (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Novo Land Floating Hear (2022)" tvg-logo="https://pic9.iqiyipic.com/image/20220621/59/19/v_167789583_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Novo Land Floating Hear (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/51.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and Nine Dragon Coffin (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20220816/4f/05/v_168755957_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Detective Dee and Nine Dragon Coffin (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and Nine Dragon Coffin (2022)" tvg-logo="https://pic4.iqiyipic.com/image/20220816/4f/05/v_168755957_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Detective Dee and Nine Dragon Coffin (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/52.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Dear Bodyguard (2022)" tvg-logo="https://pic3.iqiyipic.com/image/20221106/08/16/v_169660503_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",My Dear Bodyguard (2022)
+#EXTINF:-1 tvg-id="" tvg-name="My Dear Bodyguard (2022)" tvg-logo="https://pic3.iqiyipic.com/image/20221106/08/16/v_169660503_m_601_en_720_405.jpg" group-title="VOD ENGLISH",My Dear Bodyguard (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/53.mp4
-#EXTINF:-1 tvg-id="" tvg-name="978-Master Qianhe (2024)" tvg-logo="https://pic0.iqiyipic.com/image/20240429/0d/5a/v_175379441_m_601_en_m2_720_405.jpg" group-title="â–¶ VOD iQiyi",978-Master Qianhe (2024)
+#EXTINF:-1 tvg-id="" tvg-name="978-Master Qianhe (2024)" tvg-logo="https://pic0.iqiyipic.com/image/20240429/0d/5a/v_175379441_m_601_en_m2_720_405.jpg" group-title="VOD ENGLISH",978-Master Qianhe (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/54.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mountain Porter(2022)" tvg-logo="https://pic1.iqiyipic.com/image/20221226/29/8b/v_170612092_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Mountain Porter(2022)
+#EXTINF:-1 tvg-id="" tvg-name="Mountain Porter(2022)" tvg-logo="https://pic1.iqiyipic.com/image/20221226/29/8b/v_170612092_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Mountain Porter(2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/55.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster 731 (2019)" tvg-logo="https://pic6.iqiyipic.com/image/20210915/37/ed/v_135659727_m_601_m6_720_405.jpg" group-title="â–¶ VOD iQiyi",Monster 731 (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Monster 731 (2019)" tvg-logo="https://pic6.iqiyipic.com/image/20210915/37/ed/v_135659727_m_601_m6_720_405.jpg" group-title="VOD ENGLISH",Monster 731 (2019)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/56.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uncle Maoshan (2023)" tvg-logo="https://pic6.iqiyipic.com/image/20230921/50/22/v_173794521_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Uncle Maoshan (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Uncle Maoshan (2023)" tvg-logo="https://pic6.iqiyipic.com/image/20230921/50/22/v_173794521_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Uncle Maoshan (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/57.mp4
-#EXTINF:-1 tvg-id="" tvg-name="977-Lost In Tomb (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq18j2VurGDjc2P7KKBnoNbXmD3.jpg" group-title="â–¶ VOD iQiyi",977-Lost In Tomb (2024)
+#EXTINF:-1 tvg-id="" tvg-name="977-Lost In Tomb (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq18j2VurGDjc2P7KKBnoNbXmD3.jpg" group-title="VOD ENGLISH",977-Lost In Tomb (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/58.mp4
-#EXTINF:-1 tvg-id="" tvg-name="976-Ji Hai Mi Ku (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20241004/96/95/v_178441120_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",976-Ji Hai Mi Ku (2024)
+#EXTINF:-1 tvg-id="" tvg-name="976-Ji Hai Mi Ku (2024)" tvg-logo="https://pic7.iqiyipic.com/image/20241004/96/95/v_178441120_m_601_en_720_405.jpg" group-title="VOD ENGLISH",976-Ji Hai Mi Ku (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/59.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Infinite blocks (2022)" tvg-logo="https://pic5.iqiyipic.com/image/20220808/bf/6e/v_168546835_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Infinite blocks (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Infinite blocks (2022)" tvg-logo="https://pic5.iqiyipic.com/image/20220808/bf/6e/v_168546835_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Infinite blocks (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/60.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Headless General (2023)" tvg-logo="https://pic1.iqiyipic.com/image/20230925/97/8e/v_173845130_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",The Headless General (2023)
+#EXTINF:-1 tvg-id="" tvg-name="The Headless General (2023)" tvg-logo="https://pic1.iqiyipic.com/image/20230925/97/8e/v_173845130_m_601_en_720_405.jpg" group-title="VOD ENGLISH",The Headless General (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/61.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hard Hit (2021)" tvg-logo="https://pic5.iqiyipic.com/image/20240611/81/eb/v_164061059_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",Hard Hit (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Hard Hit (2021)" tvg-logo="https://pic5.iqiyipic.com/image/20240611/81/eb/v_164061059_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",Hard Hit (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/62.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Giant Snake Incident at Yellow River (2023)" tvg-logo="https://pic7.iqiyipic.com/image/20230320/d9/18/v_171345432_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Giant Snake Incident at Yellow River (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Giant Snake Incident at Yellow River (2023)" tvg-logo="https://pic7.iqiyipic.com/image/20230320/d9/18/v_171345432_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Giant Snake Incident at Yellow River (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/63.mp4
-#EXTINF:-1 tvg-id="" tvg-name="977-Detective Dee and the Great Illusionist (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240618/87/f3/v_176908446_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",977-Detective Dee and the Great Illusionist (2024)
+#EXTINF:-1 tvg-id="" tvg-name="977-Detective Dee and the Great Illusionist (2024)" tvg-logo="https://pic4.iqiyipic.com/image/20240618/87/f3/v_176908446_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",977-Detective Dee and the Great Illusionist (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/64.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Di Renjie and Fire Kirin (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220803/6b/45/v_168546633_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Di Renjie and Fire Kirin (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Di Renjie and Fire Kirin (2022)" tvg-logo="https://pic7.iqiyipic.com/image/20220803/6b/45/v_168546633_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Di Renjie and Fire Kirin (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/65.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detective Dee: Solitary Skies Killer (2020)" tvg-logo="https://pic7.iqiyipic.com/image/20200913/5e/58/v_150598846_m_601_en_m2_720_405.jpg" group-title="â–¶ VOD iQiyi",Detective Dee: Solitary Skies Killer (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee: Solitary Skies Killer (2020)" tvg-logo="https://pic7.iqiyipic.com/image/20200913/5e/58/v_150598846_m_601_en_m2_720_405.jpg" group-title="VOD ENGLISH",Detective Dee: Solitary Skies Killer (2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/66.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and the Mystery of the Phantom Flame (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWOBV05kNeLyaiA31DFkZlMpta5.jpg" group-title="â–¶ VOD iQiyi",Detective Dee and the Mystery of the Phantom Flame (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and the Mystery of the Phantom Flame (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWOBV05kNeLyaiA31DFkZlMpta5.jpg" group-title="VOD ENGLISH",Detective Dee and the Mystery of the Phantom Flame (2010)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/67.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and The Red Eye (2021)" tvg-logo="https://pic0.iqiyipic.com/image/20211112/85/93/v_163309074_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Detective Dee and The Red Eye (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and The Red Eye (2021)" tvg-logo="https://pic0.iqiyipic.com/image/20211112/85/93/v_163309074_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Detective Dee and The Red Eye (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/68.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and Deadly Fragrance (2022)" tvg-logo="https://pic0.iqiyipic.com/image/20220609/bb/69/v_167699906_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Detective Dee and Deadly Fragrance (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and Deadly Fragrance (2022)" tvg-logo="https://pic0.iqiyipic.com/image/20220609/bb/69/v_167699906_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Detective Dee and Deadly Fragrance (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/69.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and The Dragon of Fire (2023)" tvg-logo="https://pic1.iqiyipic.com/image/20230724/b5/24/v_173146367_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Detective Dee and The Dragon of Fire (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Detective Dee and The Dragon of Fire (2023)" tvg-logo="https://pic1.iqiyipic.com/image/20230724/b5/24/v_173146367_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Detective Dee and The Dragon of Fire (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/70.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Destruction of Opium at Humen (2021)" tvg-logo="https://pic6.iqiyipic.com/image/20210924/5c/ae/v_162217590_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",Destruction of Opium at Humen (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Destruction of Opium at Humen (2021)" tvg-logo="https://pic6.iqiyipic.com/image/20210924/5c/ae/v_162217590_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",Destruction of Opium at Humen (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/73.mp4
-#EXTINF:-1 tvg-id="" tvg-name="976-Desperate Sniper (2024)" tvg-logo="https://pic0.iqiyipic.com/image/20240530/f7/39/v_176660438_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",976-Desperate Sniper (2024)
+#EXTINF:-1 tvg-id="" tvg-name="976-Desperate Sniper (2024)" tvg-logo="https://pic0.iqiyipic.com/image/20240530/f7/39/v_176660438_m_601_en_720_405.jpg" group-title="VOD ENGLISH",976-Desperate Sniper (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/74.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desert Monster (2022)" tvg-logo="https://pic8.iqiyipic.com/image/20221209/58/03/v_170261204_m_601_en_720_405.jpg" group-title="â–¶ VOD iQiyi",Desert Monster (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Desert Monster (2022)" tvg-logo="https://pic8.iqiyipic.com/image/20221209/58/03/v_170261204_m_601_en_720_405.jpg" group-title="VOD ENGLISH",Desert Monster (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/75.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eye for an Eye (2022)" tvg-logo="https://pic1.iqiyipic.com/image/20240313/b6/8e/v_167650203_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",Eye for an Eye (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Eye for an Eye (2022)" tvg-logo="https://pic1.iqiyipic.com/image/20240313/b6/8e/v_167650203_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",Eye for an Eye (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/76.mp4
-#EXTINF:-1 tvg-id="" tvg-name="975-A Love Story of Assassin (2024)" tvg-logo="https://pic5.iqiyipic.com/image/20240918/b2/3c/v_178096625_m_601_en_m1_720_405.jpg" group-title="â–¶ VOD iQiyi",975-A Love Story of Assassin (2024)
+#EXTINF:-1 tvg-id="" tvg-name="975-A Love Story of Assassin (2024)" tvg-logo="https://pic5.iqiyipic.com/image/20240918/b2/3c/v_178096625_m_601_en_m1_720_405.jpg" group-title="VOD ENGLISH",975-A Love Story of Assassin (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/77.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AKA (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcv3A32c1buFEJ0kimHWVnAb6ujGMj6Yeh48AJLLQl4Rf26uq5hxIgnCOewji1whwjbrPIK2bif1cWDbnNs9ZkE43S-rVbbMCBflGulcZewELJAauj2OmyKdtbIoLtO03O9X.jpg?r=517" group-title="â–¶ VOD NETFLIX",AKA (2023)
+#EXTINF:-1 tvg-id="" tvg-name="AKA (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcv3A32c1buFEJ0kimHWVnAb6ujGMj6Yeh48AJLLQl4Rf26uq5hxIgnCOewji1whwjbrPIK2bif1cWDbnNs9ZkE43S-rVbbMCBflGulcZewELJAauj2OmyKdtbIoLtO03O9X.jpg?r=517" group-title="VOD NETFLIX",AKA (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/78.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZcLQ6jygDjQBJfyztn07y2d8KjeZogb4G__EzOwweRPBWTBqSAKoIp-YKCzUm1KY8mUcFsYHUMVF-_G4wWwCla7w5LgGDgtR9sYxEk_XQPOQVHsraUFgvEOpBLJq4V9II4V.jpg?r=7e0" group-title="â–¶ VOD NETFLIX",6 Underground (2019)
+#EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZcLQ6jygDjQBJfyztn07y2d8KjeZogb4G__EzOwweRPBWTBqSAKoIp-YKCzUm1KY8mUcFsYHUMVF-_G4wWwCla7w5LgGDgtR9sYxEk_XQPOQVHsraUFgvEOpBLJq4V9II4V.jpg?r=7e0" group-title="VOD NETFLIX",6 Underground (2019)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/79.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcv1g_nTEI4L-k7rn46RhxipektrbcezchOjQ_DTfCoXprUILudx0VrqBKFz-t_6R7xc2ezu1a20oq4_oCj6L02iKWKOaKPEtTeuKLqFR9fdJKCyAgG7xfdRAwG1eHt2ayri.jpg?r=638" group-title="â–¶ VOD NETFLIX",Extraction (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcv1g_nTEI4L-k7rn46RhxipektrbcezchOjQ_DTfCoXprUILudx0VrqBKFz-t_6R7xc2ezu1a20oq4_oCj6L02iKWKOaKPEtTeuKLqFR9fdJKCyAgG7xfdRAwG1eHt2ayri.jpg?r=638" group-title="VOD NETFLIX",Extraction (2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/80.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWurxIDwb1RvVdI2TEp2TKlKDedQVu8pALEpdpw45Ny0FoonVSGD-nb36QoXrVGsHmxNrDgdkcDJoO55IXYmepu7I2bC3MBUNrF_pBHHbDSEjjUcZYjc5xXL_AkG50CrbZhu.jpg?r=c52" group-title="â–¶ VOD NETFLIX",The Old Guard (2020)
+#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWurxIDwb1RvVdI2TEp2TKlKDedQVu8pALEpdpw45Ny0FoonVSGD-nb36QoXrVGsHmxNrDgdkcDJoO55IXYmepu7I2bC3MBUNrF_pBHHbDSEjjUcZYjc5xXL_AkG50CrbZhu.jpg?r=c52" group-title="VOD NETFLIX",The Old Guard (2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/81.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRQnntEHNHeLJc9qHxBQa2p7myHxW4q9b7dZySTSzc9ZdeX7jpZpg9RpGG7yFm5Vy1-cn_Qkc_jFRL2tAHZ0WSR_9h4WKdaLWQ3pPLK4CIseTmVGObOod3exk_IcwCqbBqkN.jpg?r=b42" group-title="â–¶ VOD NETFLIX",Spenser Confidential (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRQnntEHNHeLJc9qHxBQa2p7myHxW4q9b7dZySTSzc9ZdeX7jpZpg9RpGG7yFm5Vy1-cn_Qkc_jFRL2tAHZ0WSR_9h4WKdaLWQ3pPLK4CIseTmVGObOod3exk_IcwCqbBqkN.jpg?r=b42" group-title="VOD NETFLIX",Spenser Confidential (2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/82.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Name is Vendeta" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWkR7jMqIDZtgPWDkBB7QR4-8lAomSumf0wtobnGF31bSj_7aYey30zOJhSeDPxTKM4_EtXsRdBYyhQ0BhoTS3kL5AWzqMTv6Uatvh3EzkubMCMdMCI0P_ta5KqWLx7Yhlbp.jpg?r=320" group-title="â–¶ VOD NETFLIX",My Name is Vendeta
+#EXTINF:-1 tvg-id="" tvg-name="My Name is Vendeta" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWkR7jMqIDZtgPWDkBB7QR4-8lAomSumf0wtobnGF31bSj_7aYey30zOJhSeDPxTKM4_EtXsRdBYyhQ0BhoTS3kL5AWzqMTv6Uatvh3EzkubMCMdMCI0P_ta5KqWLx7Yhlbp.jpg?r=320" group-title="VOD NETFLIX",My Name is Vendeta
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/83.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeX7goWxexHpoEo_xtwmqOsYhjJBrpwUngqoXhNHvq9Q6ZxnOhP7qL8reCrTO8A2AUU_pF94tY_nQPCN2j1LceTSOQc-Z36fbbOIR9DWvaAqGy7QruIDTPNed13sxSn4iJSt.jpg?r=49b" group-title="â–¶ VOD NETFLIX",Don't Look Up (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeX7goWxexHpoEo_xtwmqOsYhjJBrpwUngqoXhNHvq9Q6ZxnOhP7qL8reCrTO8A2AUU_pF94tY_nQPCN2j1LceTSOQc-Z36fbbOIR9DWvaAqGy7QruIDTPNed13sxSn4iJSt.jpg?r=49b" group-title="VOD NETFLIX",Don't Look Up (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/84.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbelFHwB-ISl5HyJkf_k0WjZKiiskYYizg1AXCs8-HU5s8sfI_S2EfPgBYvCt4WTBnPZEXHMFlteeSST6oiPGK8b34fPyScQXlysXCn0JRckBVrq5b_sZTDSerGSH2dTpjzh.jpg?r=990" group-title="â–¶ VOD NETFLIX",Lou (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbelFHwB-ISl5HyJkf_k0WjZKiiskYYizg1AXCs8-HU5s8sfI_S2EfPgBYvCt4WTBnPZEXHMFlteeSST6oiPGK8b34fPyScQXlysXCn0JRckBVrq5b_sZTDSerGSH2dTpjzh.jpg?r=990" group-title="VOD NETFLIX",Lou (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/85.mp4
-#EXTINF:-1 tvg-id="" tvg-name="How It Ends (2018)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbg2p5p0K2kN3jCzADs0cSRDDHYbwddT0YMBbkET_z_Ip-Cm4CHspRxJoVPWvApkcVlaktZWm4SlUzUYkXeSIXbxN5U6k8isSyaJToijg4PdhOm0LpWyp4NXM-2boTQDlJjC.jpg?r=da2" group-title="â–¶ VOD NETFLIX",How It Ends (2018)
+#EXTINF:-1 tvg-id="" tvg-name="How It Ends (2018)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbg2p5p0K2kN3jCzADs0cSRDDHYbwddT0YMBbkET_z_Ip-Cm4CHspRxJoVPWvApkcVlaktZWm4SlUzUYkXeSIXbxN5U6k8isSyaJToijg4PdhOm0LpWyp4NXM-2boTQDlJjC.jpg?r=da2" group-title="VOD NETFLIX",How It Ends (2018)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/86.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maharaj (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRXeohUHNNzNX7msUj8_MnvFMDLJ5RXXqq2WhmVrutx-w5P0As8IDGy3PHgZ4g176nCSHPRdUi38JR9XpGGFi6HGCvqAg1tRHFdYwZayCFr8ZeyzId3H6eC5S8qdQbkkpLeu.jpg?r=05e" group-title="â–¶ VOD NETFLIX",Maharaj (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Maharaj (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRXeohUHNNzNX7msUj8_MnvFMDLJ5RXXqq2WhmVrutx-w5P0As8IDGy3PHgZ4g176nCSHPRdUi38JR9XpGGFi6HGCvqAg1tRHFdYwZayCFr8ZeyzId3H6eC5S8qdQbkkpLeu.jpg?r=05e" group-title="VOD NETFLIX",Maharaj (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/87.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Platform (2019)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfSjqrzGE6G3bdPhdBUmhCxcpUVXNdN8g6yS2_hCycV8PMEVoV_rXOTnmVLTYLouOXFBrR2JDigbI_YBzes7mOOVcUNaiX7bivylRR6DmdZld3uk5zkX0uLvH444YyrdFJXl.jpg?r=fc2" group-title="â–¶ VOD NETFLIX",The Platform (2019)
+#EXTINF:-1 tvg-id="" tvg-name="The Platform (2019)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfSjqrzGE6G3bdPhdBUmhCxcpUVXNdN8g6yS2_hCycV8PMEVoV_rXOTnmVLTYLouOXFBrR2JDigbI_YBzes7mOOVcUNaiX7bivylRR6DmdZld3uk5zkX0uLvH444YyrdFJXl.jpg?r=fc2" group-title="VOD NETFLIX",The Platform (2019)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/88.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5) The Platform 2 (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWSVGDkhwwWV50P4CllENNwKJOrsPOTqwzrg_pcW_7VCbSQYcuvcSozj8T8kv0eY6N_FeVbWVy9IqfPfDSF261Wtc8si-GsJWY1DI5MAJV2LWe79HT22pESvW8pnzJKmUIoiuI4FchNgUwIbtGgYpi7b3BQkogU5-_on0gaP787VedM2KhGCevnQ5Vx8DfLIBWq1TFSjycyd-q9zZJ37LxU_9w8d9AKtSxLrhhg9w1-aoHYwukmPjIFnb5M08o7tWauBiKOgRrZwtl-8Ja0u7euqbYxoiVdLMLy_-vI-33IHHY9iNFl4ci2lWBSoZDrEqswW_nH37JvhVj4FifcnLKdBIAKM7lGQVly6gYnkErTGhZdbwM.jpg?r=659" group-title="â–¶ VOD NETFLIX",5) The Platform 2 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="5) The Platform 2 (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWSVGDkhwwWV50P4CllENNwKJOrsPOTqwzrg_pcW_7VCbSQYcuvcSozj8T8kv0eY6N_FeVbWVy9IqfPfDSF261Wtc8si-GsJWY1DI5MAJV2LWe79HT22pESvW8pnzJKmUIoiuI4FchNgUwIbtGgYpi7b3BQkogU5-_on0gaP787VedM2KhGCevnQ5Vx8DfLIBWq1TFSjycyd-q9zZJ37LxU_9w8d9AKtSxLrhhg9w1-aoHYwukmPjIFnb5M08o7tWauBiKOgRrZwtl-8Ja0u7euqbYxoiVdLMLy_-vI-33IHHY9iNFl4ci2lWBSoZDrEqswW_nH37JvhVj4FifcnLKdBIAKM7lGQVly6gYnkErTGhZdbwM.jpg?r=659" group-title="VOD NETFLIX",5) The Platform 2 (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/89.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWNWm8N4tYQFCPCohv-7zChpBAf_5xYtduE8PXx-8th-DJMJEv9PdgCIthGJ3KZ8Ha0u4UI590DYWS_XLjDsFH7Ja55Uu3iNZAYcUQOy1gfzTDHPG50qRfWXwTJP97mw_S0x.jpg?r=850" group-title="â–¶ VOD NETFLIX",Outside the Wire (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWNWm8N4tYQFCPCohv-7zChpBAf_5xYtduE8PXx-8th-DJMJEv9PdgCIthGJ3KZ8Ha0u4UI590DYWS_XLjDsFH7Ja55Uu3iNZAYcUQOy1gfzTDHPG50qRfWXwTJP97mw_S0x.jpg?r=850" group-title="VOD NETFLIX",Outside the Wire (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/90.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extinction (2018)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ-2hWTjIz5mfhQJopUzv6jN5RcE_5K04n-TdLBldr8WnLG_gGxXiEqoWftTd5pVgYIf1ABITYaAxAlS3Bu5YI1ceXuaP0iw1TjQ1BKgUsDq0WDJD02iY06M1qtcXdo1HfcK.jpg?r=bec" group-title="â–¶ VOD NETFLIX",Extinction (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Extinction (2018)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ-2hWTjIz5mfhQJopUzv6jN5RcE_5K04n-TdLBldr8WnLG_gGxXiEqoWftTd5pVgYIf1ABITYaAxAlS3Bu5YI1ceXuaP0iw1TjQ1BKgUsDq0WDJD02iY06M1qtcXdo1HfcK.jpg?r=bec" group-title="VOD NETFLIX",Extinction (2018)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/91.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUJ697pRg5Z2PHYvqYB9lJCzH9yGdHFLMYR-5zpmGwQF4JOm7sb-ZEc5YadfHlFni64SOq5EwNiySVX6pedK3WmTdkP3tdfCMgRk0Ctp54qpYe1V1yqP8-fMMbiA25ylqFmE.jpg?r=74e" group-title="â–¶ VOD NETFLIX",Enola Holmes (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUJ697pRg5Z2PHYvqYB9lJCzH9yGdHFLMYR-5zpmGwQF4JOm7sb-ZEc5YadfHlFni64SOq5EwNiySVX6pedK3WmTdkP3tdfCMgRk0Ctp54qpYe1V1yqP8-fMMbiA25ylqFmE.jpg?r=74e" group-title="VOD NETFLIX",Enola Holmes (2020)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/92.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPECM5H_PI2wsdu3abz5WDSrd2b8lkYmG0kzNrqkXPMTotNtKUUFoX_wQLax0cCY-h6K1qg067HP_WbRxhAsFc_Yn7x8vZcFRwoGsPrbTX9f7osN5JVM8jjEanMngdwljN0.jpg?r=0a0" group-title="â–¶ VOD NETFLIX",Enola Holmes 2 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPECM5H_PI2wsdu3abz5WDSrd2b8lkYmG0kzNrqkXPMTotNtKUUFoX_wQLax0cCY-h6K1qg067HP_WbRxhAsFc_Yn7x8vZcFRwoGsPrbTX9f7osN5JVM8jjEanMngdwljN0.jpg?r=0a0" group-title="VOD NETFLIX",Enola Holmes 2 (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/93.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honeymoonish (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaRDhMHeoolkhFlXBi05NuYw-Q-EA30XtjJK1_WaOrsUfFlsiwpoyFLTzn7cFxIrTHeERwJdVOg_avADDjdGLovC4PQwqU1nnse_CN12bU8iGdjLiMGFLUA0U7l6FQ5AfOde.jpg?r=a49" group-title="â–¶ VOD NETFLIX",Honeymoonish (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Honeymoonish (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaRDhMHeoolkhFlXBi05NuYw-Q-EA30XtjJK1_WaOrsUfFlsiwpoyFLTzn7cFxIrTHeERwJdVOg_avADDjdGLovC4PQwqU1nnse_CN12bU8iGdjLiMGFLUA0U7l6FQ5AfOde.jpg?r=a49" group-title="VOD NETFLIX",Honeymoonish (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/94.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXNs1G4Q4iy_HD0N18xOMz0xfDEHq3lZfWCzfeJyZD6L8U_QnGGHXo3y3qUWhrXUd9CWjCmKPK_aVWfHohawpwiuKxdg6gasqyyBRyf9xFvUmGfd0dNSUkS8dTJsDY4NEiad.jpg?r=9c2" group-title="â–¶ VOD NETFLIX",Rebel Moon - Part One: A Child of Fire (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXNs1G4Q4iy_HD0N18xOMz0xfDEHq3lZfWCzfeJyZD6L8U_QnGGHXo3y3qUWhrXUd9CWjCmKPK_aVWfHohawpwiuKxdg6gasqyyBRyf9xFvUmGfd0dNSUkS8dTJsDY4NEiad.jpg?r=9c2" group-title="VOD NETFLIX",Rebel Moon - Part One: A Child of Fire (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/95.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfScLMDI_he1ezxihazLVhckKmunbEH6GKANV2ArSxFg2Vg6HH5TsOUsZ3EiZp-KCHdRaXmKHlpWdESF1zjjZOiAWRQoi6TTPB4v74q98qDC8P--nZm6Qy4dNRRQyw2mXmlY.jpg?r=2cb" group-title="â–¶ VOD NETFLIX",Rebel Moon - Part Two: The Scargiver (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfScLMDI_he1ezxihazLVhckKmunbEH6GKANV2ArSxFg2Vg6HH5TsOUsZ3EiZp-KCHdRaXmKHlpWdESF1zjjZOiAWRQoi6TTPB4v74q98qDC8P--nZm6Qy4dNRRQyw2mXmlY.jpg?r=2cb" group-title="VOD NETFLIX",Rebel Moon - Part Two: The Scargiver (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/96.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Sea Beast (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABekg-IJUVbNRGNCFjdunLBC3GvdToCDDd6cf0pEG3sGT74_AGzUs9qGsVUJIRBdqcFZVoPm7cP9Nr06DKAFoxu1KET7aotdKAUS1Jyv-VQglR-Ovsye0fjmSZYxszlsE3BHM.jpg?r=5c5" group-title="â–¶ VOD NETFLIX",The Sea Beast (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Sea Beast (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABekg-IJUVbNRGNCFjdunLBC3GvdToCDDd6cf0pEG3sGT74_AGzUs9qGsVUJIRBdqcFZVoPm7cP9Nr06DKAFoxu1KET7aotdKAUS1Jyv-VQglR-Ovsye0fjmSZYxszlsE3BHM.jpg?r=5c5" group-title="VOD NETFLIX",The Sea Beast (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/97.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leo (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSDwhD_Wpt9BqswOt8puCoHx_UxnC0Lt1cfuheULReDpoV9BobVtNnnUfDNx_xS2KS7VWjxAYFNcxPXR0jFkPAzFH1QxzGBAOzhEW9ZlgbmbnbNx0QF8OrOo5EgEDdxkYIl1.jpg?r=a6e" group-title="â–¶ VOD NETFLIX",Leo (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Leo (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSDwhD_Wpt9BqswOt8puCoHx_UxnC0Lt1cfuheULReDpoV9BobVtNnnUfDNx_xS2KS7VWjxAYFNcxPXR0jFkPAzFH1QxzGBAOzhEW9ZlgbmbnbNx0QF8OrOo5EgEDdxkYIl1.jpg?r=a6e" group-title="VOD NETFLIX",Leo (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/98.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYC5bPL_8tgqy75vaB-gFLiNKvuPQKKHnCvIzSdfnq7uFLaNV4rWZx0FtNzOO5dvVoKn8WRwegJtOjtTHFMH3rhT7i8It5Bhh0g6o_PyLsOXRXJ51BoBJJUGDwN58VpQXnoF.jpg?r=ed6" group-title="â–¶ VOD NETFLIX",Badland Hunters (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYC5bPL_8tgqy75vaB-gFLiNKvuPQKKHnCvIzSdfnq7uFLaNV4rWZx0FtNzOO5dvVoKn8WRwegJtOjtTHFMH3rhT7i8It5Bhh0g6o_PyLsOXRXJ51BoBJJUGDwN58VpQXnoF.jpg?r=ed6" group-title="VOD NETFLIX",Badland Hunters (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/99.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Gray Man (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQRxwxMBfHLk52d9VpP2jJrmlCctAGQj7l3NX0yosZ2o5mimo43a8qBb9-1m2MXC2nrJcc1mT2qNMuf8NCiIBmjWyVdr7O6ABqxyf3Xe0ZG_0IWAApwQXTr3rUkZLzgUIMPu.jpg?r=841" group-title="â–¶ VOD NETFLIX",The Gray Man (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Gray Man (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQRxwxMBfHLk52d9VpP2jJrmlCctAGQj7l3NX0yosZ2o5mimo43a8qBb9-1m2MXC2nrJcc1mT2qNMuf8NCiIBmjWyVdr7O6ABqxyf3Xe0ZG_0IWAApwQXTr3rUkZLzgUIMPu.jpg?r=841" group-title="VOD NETFLIX",The Gray Man (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mowgli: Legend of the Jungle (2018)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfLYlpoU35wtZAI5VaFEeNZKi1a112r4x8BV4AXetpVTsCRA2vJFArg5qBDIM96E9El6h3PTg68vibaTTm8fXFSkbMYza9Z3LBA1KbOZOf2m2ZFymvXbs_WRO5lQZtzsAn5O.jpg?r=d63" group-title="â–¶ VOD NETFLIX",Mowgli: Legend of the Jungle (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Mowgli: Legend of the Jungle (2018)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfLYlpoU35wtZAI5VaFEeNZKi1a112r4x8BV4AXetpVTsCRA2vJFArg5qBDIM96E9El6h3PTg68vibaTTm8fXFSkbMYza9Z3LBA1KbOZOf2m2ZFymvXbs_WRO5lQZtzsAn5O.jpg?r=d63" group-title="VOD NETFLIX",Mowgli: Legend of the Jungle (2018)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc3Dign_5FI6YdpvlnOZ9MCOPZhjlpSkygE19ynNltekddaiS0KV398VKq13WcxgLPBLhRF25zla_G5pVNRz6coZ1YkBNSx4u_K69q-Hyrq5jTayRcu7spT0DAyeL-fTsKBD.jpg?r=c75" group-title="â–¶ VOD NETFLIX",Army of Thieves (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc3Dign_5FI6YdpvlnOZ9MCOPZhjlpSkygE19ynNltekddaiS0KV398VKq13WcxgLPBLhRF25zla_G5pVNRz6coZ1YkBNSx4u_K69q-Hyrq5jTayRcu7spT0DAyeL-fTsKBD.jpg?r=c75" group-title="VOD NETFLIX",Army of Thieves (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kate (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWieTSM-mGnDEbadwaiRoL6-j-15ODOxAO71roYqzJDullP33oMvfYV99L9A8hVOV0RD_nKqd_L08dN2Fa-UT9xFom3MYdrPnTzUiUmq6s28Wwh9rfP-ZMmeED89wlDmq8Fe.jpg?r=be8" group-title="â–¶ VOD NETFLIX",Kate (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Kate (2021)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWieTSM-mGnDEbadwaiRoL6-j-15ODOxAO71roYqzJDullP33oMvfYV99L9A8hVOV0RD_nKqd_L08dN2Fa-UT9xFom3MYdrPnTzUiUmq6s28Wwh9rfP-ZMmeED89wlDmq8Fe.jpg?r=be8" group-title="VOD NETFLIX",Kate (2021)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Wages of Fear (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbMidOIm8-QkJpE330CBpqLGnZuyeB1PgTtZDXTY9_M5q434-bbD7IJXwcaIo4lFeE2BZ-1FmrH-m7zCsAiCOB41YsKAduc-s0NPl4zTccRY764LpjnpQ7gKTQt87hOxEIc2.jpg?r=2bf" group-title="â–¶ VOD NETFLIX",The Wages of Fear (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The Wages of Fear (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbMidOIm8-QkJpE330CBpqLGnZuyeB1PgTtZDXTY9_M5q434-bbD7IJXwcaIo4lFeE2BZ-1FmrH-m7zCsAiCOB41YsKAduc-s0NPl4zTccRY764LpjnpQ7gKTQt87hOxEIc2.jpg?r=2bf" group-title="VOD NETFLIX",The Wages of Fear (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paradise (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeBzMi-kh4sTS6r5XkgwpQAL_LlvUhQAtRXENTQlX764tFm9xJtXqxcmfkGDkD_SJHUadPHVG42iLqHV4WRT8XUMiYXemu_KxF6MBRt3uNTmZ8UP5PZpgJDp8rIiDSt9bD2l.jpg?r=0df" group-title="â–¶ VOD NETFLIX",Paradise (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Paradise (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeBzMi-kh4sTS6r5XkgwpQAL_LlvUhQAtRXENTQlX764tFm9xJtXqxcmfkGDkD_SJHUadPHVG42iLqHV4WRT8XUMiYXemu_KxF6MBRt3uNTmZ8UP5PZpgJDp8rIiDSt9bD2l.jpg?r=0df" group-title="VOD NETFLIX",Paradise (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Under Paris (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe2-FkSvJY5c5OhBRRBvRjbbduWmgp0a17CRY64Z2YZdexF_c-fDPAsHOId5vvBt-lihgjgc4iz2J9O3Tzc1xwANjvrLSEedW0rbp-0Y9Zk4rzgq6B38Sa__a22URJlVISFY.jpg?r=de0" group-title="â–¶ VOD NETFLIX",Under Paris (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Under Paris (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe2-FkSvJY5c5OhBRRBvRjbbduWmgp0a17CRY64Z2YZdexF_c-fDPAsHOId5vvBt-lihgjgc4iz2J9O3Tzc1xwANjvrLSEedW0rbp-0Y9Zk4rzgq6B38Sa__a22URJlVISFY.jpg?r=de0" group-title="VOD NETFLIX",Under Paris (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heart of Stone (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcTq19pbQ5j6xSmlNgI4oNtzEVzsekwzv1P3DxZo0JJy0WDsJSPfYPT6m9wtT3YKcFd3MQ7XWOyBcaC1NWj6eRfnXQvTHbC5yzkz5ISw9cW32FjQKeg-9dFOkJJIEOCeRqqS.jpg?r=92b" group-title="â–¶ VOD NETFLIX",Heart of Stone (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Stone (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcTq19pbQ5j6xSmlNgI4oNtzEVzsekwzv1P3DxZo0JJy0WDsJSPfYPT6m9wtT3YKcFd3MQ7XWOyBcaC1NWj6eRfnXQvTHbC5yzkz5ISw9cW32FjQKeg-9dFOkJJIEOCeRqqS.jpg?r=92b" group-title="VOD NETFLIX",Heart of Stone (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leave The World Behind (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbNLTO4Nl7-W_KLQDU228CpHlMFn9-9yTqLLnEdmWIYNSdlZPH5XYegh6_ugpY3wPwljfXP1IUKEBUr9BT34pICnqCWV8rRTggz2OeJUKfJZQYLfo2hL6K26tcq3CvCROQt7.jpg?r=a50" group-title="â–¶ VOD NETFLIX",Leave The World Behind (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Leave The World Behind (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbNLTO4Nl7-W_KLQDU228CpHlMFn9-9yTqLLnEdmWIYNSdlZPH5XYegh6_ugpY3wPwljfXP1IUKEBUr9BT34pICnqCWV8rRTggz2OeJUKfJZQYLfo2hL6K26tcq3CvCROQt7.jpg?r=a50" group-title="VOD NETFLIX",Leave The World Behind (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Troll (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWrK54v4NuAwLuB4HjfOrv_tNGgS5RezKL1DAI0QqvFhAZZO0whww5RzVKLrqjXzzwkPPpl604qPTjwo04vyzJMN1YBly2uMuGkY3Syt2oZ576vK_gnbyRdjPQ7FYdCQaTG.jpg?r=87c" group-title="â–¶ VOD NETFLIX",Troll (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Troll (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWrK54v4NuAwLuB4HjfOrv_tNGgS5RezKL1DAI0QqvFhAZZO0whww5RzVKLrqjXzzwkPPpl604qPTjwo04vyzJMN1YBly2uMuGkY3Syt2oZ576vK_gnbyRdjPQ7FYdCQaTG.jpg?r=87c" group-title="VOD NETFLIX",Troll (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Killer (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ4Jd2UwMP7pwxeJ3gS_2QIEHXewdaagBCPJmju56LitwN0uRW1vgHxIQaswGMedcWAy8Hme3_FTpYImxpTHSRhzpF5VpnyVchJpYnNC8C_dtkX8RGe7zAmroUKuEEr5Un8w.jpg?r=8a8" group-title="â–¶ VOD NETFLIX",The Killer (2023)
+#EXTINF:-1 tvg-id="" tvg-name="The Killer (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ4Jd2UwMP7pwxeJ3gS_2QIEHXewdaagBCPJmju56LitwN0uRW1vgHxIQaswGMedcWAy8Hme3_FTpYImxpTHSRhzpF5VpnyVchJpYnNC8C_dtkX8RGe7zAmroUKuEEr5Un8w.jpg?r=8a8" group-title="VOD NETFLIX",The Killer (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPHz6zZfiffMLFtAmaTcji4HyGkPaDcBtOMAmrdAuX8FVQ-d8G8M3yeixZ0RqONnD5qhB9QPHKVpR_XLrZpxZ5nXEiF8wdcKZKBqfW9HfQQryFom_5YBJmfURxWAgW9vqCN.jpg?r=005" group-title="â–¶ VOD NETFLIX",Glass Onion: A Knives Out Mystery (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPHz6zZfiffMLFtAmaTcji4HyGkPaDcBtOMAmrdAuX8FVQ-d8G8M3yeixZ0RqONnD5qhB9QPHKVpR_XLrZpxZ5nXEiF8wdcKZKBqfW9HfQQryFom_5YBJmfURxWAgW9vqCN.jpg?r=005" group-title="VOD NETFLIX",Glass Onion: A Knives Out Mystery (2022)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Is in the Air (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb1LQlUc5B6y-cfZ9TUoLyIuGbDzhY3l8Wak0qGGkuQCCVQM9T5YadFGoBudEvkFyrtY_Ecxz-4LQK_XbiKjue99KW497bXdCdolH8cK1lkH-QQoeiz2Zo-z6WABliaTIj0q.jpg?r=2e4" group-title="â–¶ VOD NETFLIX",Love Is in the Air (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Love Is in the Air (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb1LQlUc5B6y-cfZ9TUoLyIuGbDzhY3l8Wak0qGGkuQCCVQM9T5YadFGoBudEvkFyrtY_Ecxz-4LQK_XbiKjue99KW497bXdCdolH8cK1lkH-QQoeiz2Zo-z6WABliaTIj0q.jpg?r=2e4" group-title="VOD NETFLIX",Love Is in the Air (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3) Padu (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXBy1jN9X2Pe3b7JR_tMYmY1lKEs2NLfVxEXbyNytJhry4jVCUEnKn_uz4mROXkpSZBBOO2uSVz_O1RmJSv3cBpdTHJTvV8R6X56QR-hk-N66ewNiNqiOPuY6C9IYwD_u73WABv0bQqPUKmqq130tUi5hczPcPbtOhy59rHxQEmxG7JxH7j0MzHQUBinlLFyZAmj_ERN-_y-XHcCjCmRdnJsZwTTxQiiV7w6NPMBO7Meg3V3WEf1Uo0-BTks6Y5NubpeDFeOTVe5VtUHpGTp-3nM-k9RszQGiA7hKFtd76fsuJbuSLC_P7Gi-tsYU8hxp-hpVbluKpGhfOeIB_vPv3o.webp?r=e11" group-title="â–¶ VOD NETFLIX",3) Padu (2024)
+#EXTINF:-1 tvg-id="" tvg-name="3) Padu (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXBy1jN9X2Pe3b7JR_tMYmY1lKEs2NLfVxEXbyNytJhry4jVCUEnKn_uz4mROXkpSZBBOO2uSVz_O1RmJSv3cBpdTHJTvV8R6X56QR-hk-N66ewNiNqiOPuY6C9IYwD_u73WABv0bQqPUKmqq130tUi5hczPcPbtOhy59rHxQEmxG7JxH7j0MzHQUBinlLFyZAmj_ERN-_y-XHcCjCmRdnJsZwTTxQiiV7w6NPMBO7Meg3V3WEf1Uo0-BTks6Y5NubpeDFeOTVe5VtUHpGTp-3nM-k9RszQGiA7hKFtd76fsuJbuSLC_P7Gi-tsYU8hxp-hpVbluKpGhfOeIB_vPv3o.webp?r=e11" group-title="VOD NETFLIX",3) Padu (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mission: Cross (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb3pIxNnQ2ly4OetjZP8AdURfPlEyja472u7nBxMYu_xg4QhoGfdk3CdHbeX_1dcGw3qZKW7UGVmebIj6KTODQT8VcRTtiTorHgyLBzeMWiSAfgGaIqkxWVuu7yfcQdzgX9q.jpg?r=c5e" group-title="â–¶ VOD NETFLIX",Mission: Cross (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Cross (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb3pIxNnQ2ly4OetjZP8AdURfPlEyja472u7nBxMYu_xg4QhoGfdk3CdHbeX_1dcGw3qZKW7UGVmebIj6KTODQT8VcRTtiTorHgyLBzeMWiSAfgGaIqkxWVuu7yfcQdzgX9q.jpg?r=c5e" group-title="VOD NETFLIX",Mission: Cross (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hit Man (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfWQZXdeLem010YtLKoUXlw4EAbRzWHD3aX26emgDuVOkC-gnlLSAbFNADDJ6Zunbl_rPJmMGu5wP0olQkUmCE5v1kOf34kjXZa4tFgTGcT9O-RX4_hzm3KzD0igIVL1wrtB.jpg?r=1b4" group-title="â–¶ VOD NETFLIX",Hit Man (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Hit Man (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfWQZXdeLem010YtLKoUXlw4EAbRzWHD3aX26emgDuVOkC-gnlLSAbFNADDJ6Zunbl_rPJmMGu5wP0olQkUmCE5v1kOf34kjXZa4tFgTGcT9O-RX4_hzm3KzD0igIVL1wrtB.jpg?r=1b4" group-title="VOD NETFLIX",Hit Man (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Family Affair (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY81dRiGXyD-k2V40QK0167aVG3sniHXlphKhHU39riLoXaNiQ9Zk5edv-_YN1Z82-pFzmrNJJRDkad3TUnrDfxgXlwNYRWYCs-rM-TlRQrpnGMcJp4Xe02UMfgsGwvscW2Y.jpg?r=2ba" group-title="â–¶ VOD NETFLIX",A Family Affair (2024)
+#EXTINF:-1 tvg-id="" tvg-name="A Family Affair (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY81dRiGXyD-k2V40QK0167aVG3sniHXlphKhHU39riLoXaNiQ9Zk5edv-_YN1Z82-pFzmrNJJRDkad3TUnrDfxgXlwNYRWYCs-rM-TlRQrpnGMcJp4Xe02UMfgsGwvscW2Y.jpg?r=2ba" group-title="VOD NETFLIX",A Family Affair (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wingwomen (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW3NqLNV33pcC94_CTz3sfhxHTRtDANnHrk4HFjI_XmVbuVXTtkMkPixBpyvLe2HBjR81823fHP4VI1sFoZmN_LD4MmZgap6Y9oySZ85rmwkO24lqBWgeQEDPtfncfrt2FkB.jpg?r=6f8" group-title="â–¶ VOD NETFLIX",Wingwomen (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Wingwomen (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW3NqLNV33pcC94_CTz3sfhxHTRtDANnHrk4HFjI_XmVbuVXTtkMkPixBpyvLe2HBjR81823fHP4VI1sFoZmN_LD4MmZgap6Y9oySZ85rmwkO24lqBWgeQEDPtfncfrt2FkB.jpg?r=6f8" group-title="VOD NETFLIX",Wingwomen (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irish Wish (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXJJCBLBxjc-6Sx0rmD3AuqJYnYdHixpoZs3zDLvU87loFaf9OmNW7AWpA2UymVvPE7hyNcO6RDQOyfe2RuEIpfg1ljRXVL_FLk1m0ZZbJ8-0LrJpL_q2gIqt3D4LjU8e1h3.jpg?r=29f" group-title="â–¶ VOD NETFLIX",Irish Wish (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Irish Wish (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXJJCBLBxjc-6Sx0rmD3AuqJYnYdHixpoZs3zDLvU87loFaf9OmNW7AWpA2UymVvPE7hyNcO6RDQOyfe2RuEIpfg1ljRXVL_FLk1m0ZZbJ8-0LrJpL_q2gIqt3D4LjU8e1h3.jpg?r=29f" group-title="VOD NETFLIX",Irish Wish (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdLmSonP-51dhvMiliiILiSU0ojLUIhlBaHAuRI6gPMk6_AeUm2RWL32XzsKR3Uf7vEPYQJ6xp1Pe9qiaaPMWBvLvxAkkEXOO8FfjES0GA-I4nELguicPI7V_GHpF67maA5h.jpg?r=afa" group-title="â–¶ VOD NETFLIX",Luther: The Fallen Sun (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdLmSonP-51dhvMiliiILiSU0ojLUIhlBaHAuRI6gPMk6_AeUm2RWL32XzsKR3Uf7vEPYQJ6xp1Pe9qiaaPMWBvLvxAkkEXOO8FfjES0GA-I4nELguicPI7V_GHpF67maA5h.jpg?r=afa" group-title="VOD NETFLIX",Luther: The Fallen Sun (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bionic (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWgqXd70F-jNqHkYz_E2h4f0AJo-XQ4QEtYOcX1u4Ak8rYqQ5arMyBoMAOVjvPQXITqkFeP82q9owgC7RWI13KS2Jlw8doVjTsyHtytBpHPb7mFXrPi0fF1SNpR8Rl_k8cJX.jpg?r=93e" group-title="â–¶ VOD NETFLIX",Bionic (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Bionic (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWgqXd70F-jNqHkYz_E2h4f0AJo-XQ4QEtYOcX1u4Ak8rYqQ5arMyBoMAOVjvPQXITqkFeP82q9owgC7RWI13KS2Jlw8doVjTsyHtytBpHPb7mFXrPi0fF1SNpR8Rl_k8cJX.jpg?r=93e" group-title="VOD NETFLIX",Bionic (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mother of the Bride (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSvqSuRI0xFf_IJZzqm5Se_vOLbRj7dKMv5TP_WtmKx26C0nfDdpjuo4wOJpk6fZRyn50ycpMJLnFmR7HzgxCc8_NFZ9sbqLK1l6hKWKlhwYxLyprXs-9p_pDXNJGYI7Ilw5.jpg?r=6de" group-title="â–¶ VOD NETFLIX",Mother of the Bride (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Mother of the Bride (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSvqSuRI0xFf_IJZzqm5Se_vOLbRj7dKMv5TP_WtmKx26C0nfDdpjuo4wOJpk6fZRyn50ycpMJLnFmR7HzgxCc8_NFZ9sbqLK1l6hKWKlhwYxLyprXs-9p_pDXNJGYI7Ilw5.jpg?r=6de" group-title="VOD NETFLIX",Mother of the Bride (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Golden Kamuy (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUUJ7X6-l_ptss6b59zvAuWn5oAh09iabuHprLdexqXlFSqbfZ9IsawaYRjYxqbQpBcDzP96kgnUU9epAEY5SOAdDPgau3z3EwdZF-ilCWbnImPSiyWhJa0vKkGT7bhda9Td.jpg?r=fda" group-title="â–¶ VOD NETFLIX",Golden Kamuy (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Golden Kamuy (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUUJ7X6-l_ptss6b59zvAuWn5oAh09iabuHprLdexqXlFSqbfZ9IsawaYRjYxqbQpBcDzP96kgnUU9epAEY5SOAdDPgau3z3EwdZF-ilCWbnImPSiyWhJa0vKkGT7bhda9Td.jpg?r=fda" group-title="VOD NETFLIX",Golden Kamuy (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Phir Aayi Hasseen Dillruba (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRE6yWHz0hw3QMYHKFdMvd6NCt4JGWzYu71ZW3vChDqoD_pnHaR1-nbcnXSEuvsVw3_EZbD5AMAusCOx4pOiGFYdAQAvos2aGDB4pOy7qmWnbezLS5t_J03q-9g4WQndfgaS.jpg?r=0f1" group-title="â–¶ VOD NETFLIX",Phir Aayi Hasseen Dillruba (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Phir Aayi Hasseen Dillruba (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRE6yWHz0hw3QMYHKFdMvd6NCt4JGWzYu71ZW3vChDqoD_pnHaR1-nbcnXSEuvsVw3_EZbD5AMAusCOx4pOiGFYdAQAvos2aGDB4pOy7qmWnbezLS5t_J03q-9g4WQndfgaS.jpg?r=0f1" group-title="VOD NETFLIX",Phir Aayi Hasseen Dillruba (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/123.mp4
 #EXTINF:-1 tvg-id="" tvg-name="5) Trouble (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfj4g0xgS7tjdzx6XQxtpEbIA-F42YWXq7REWGK1pzqmB0PxK71E7QJ8L-M_Wu6EwFd_M-J5_QHU0sdjowLK6pzF3V6nUeYWBEIwSObPNYjFc5sbmFvLqSG9H8yf2NkGYBhkqG7rUGYl-aWQvHCKDP_VMwLROmlV0OzAq1t9jdD3CbwaYu1NG5wHgI2iIn1M28-uUfOPIYiLYgBbe1dWX_hvkEvexo7MmLIQgIZ-fvuI8_qv8Jrf2OYR3DdsWjER0ZyALyBs4--b6F-GXvInfqLf37tC2DUtRZ-3InVNB0-8g0wZE6Be9y_1EglZqvZC6WtEtsrxDqmGpwdkaUZYMjLZB7V8CyDWw1c-vW85LSP4lCI2TKM.jpg?r=977" group-title="â–¶ VOD NETFLIX",5) Trouble (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/124.mp4
@@ -1266,17 +1267,17 @@ http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/138.mp4
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/139.mp4
 #EXTINF:-1 tvg-id="" tvg-name="6) Uglies (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd4qbJ4e6gKtzGIM52gJZNS1QCpWG4i9bycmB34yIcd-YLo_NUXDNeRedzrULhD1ZKUJk6XsGcdTgDtyJUFPQBdC_f1kSgq7Qe9hQPTEBEDRx1nrlsficAFBDfY0wZ-MUDKk2Vyhdj2CQ_SJ4QVmV26bog7Kk3jBpOQgSlVn1ggW0oanKQZAR9RpRaJ5cZerVK_54UB-23L4UmTPDt9rerICGbYhG5AQesdF0kpE9hX3205o3oa9pXq8p8JY7ZOIBgpcaoVBwng-qd8wF50MGQ3RL2ci0KskEGu5T0fsoSpyA_-9L5Z514tH.jpg?r=f48" group-title="â–¶ VOD NETFLIX",6) Uglies (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZyyZJ8Vdwx0cpeKQu4g25aaMTsdoLbn-og1mJK_lRpxuI-0c6WBm2He4tnYvWWi4q1ZG5Wd9tvvuL9knROhnqzdPKjX2AWDDBV6wK6-f8l0agEQ9JGRHlIo6tfrngga_vkO.jpg?r=d24" group-title="â–¶ VOD NETFLIX",Heart of the Hunter (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZyyZJ8Vdwx0cpeKQu4g25aaMTsdoLbn-og1mJK_lRpxuI-0c6WBm2He4tnYvWWi4q1ZG5Wd9tvvuL9knROhnqzdPKjX2AWDDBV6wK6-f8l0agEQ9JGRHlIo6tfrngga_vkO.jpg?r=d24" group-title="VOD NETFLIX",Heart of the Hunter (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atlas (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW3cVUUbhfqTm_v-FvfnXH9ScS1gxmM3Ax7RLg44rrFyNzW88iIrFFOoU0AOANZ4lcwkNMS8lMRurCGcABydmnqZgbVl35EB18q2qoe29hmcOm1htkkqjZvKI2zMCWBhbVlw.jpg?r=f80" group-title="â–¶ VOD NETFLIX",Atlas (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Atlas (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW3cVUUbhfqTm_v-FvfnXH9ScS1gxmM3Ax7RLg44rrFyNzW88iIrFFOoU0AOANZ4lcwkNMS8lMRurCGcABydmnqZgbVl35EB18q2qoe29hmcOm1htkkqjZvKI2zMCWBhbVlw.jpg?r=f80" group-title="VOD NETFLIX",Atlas (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2)Officer Black Belt (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfA_JKIglsbs3UXAgG9UklBDTpug2EAFo0fZ7rcKyzZGSh199Tdc4pbrGpgvhYzfxJ-GuJrzE47N8f_aWzZzwf3roo_AJNizTKS5f_SKtgrvRxJhtWNCV4eYtaoaJoJrwLACEbHQyM3mq1-0pNTeWryOpfZ8tzqjbgdW-pi32hGCocPIvOoLET6pKtsw3VsOWAaAHlrGd8TB-BrZiALEPWqUHMSNmLxobjTXeiICCCCIlNiE74_Ro--gfVQuLysjptTqVwM2JqUoGSVGeZWjCD8t1i_jmx2A19XehyBM7ra6iww0mnlO5zg1.jpg?r=7a3" group-title="â–¶ VOD NETFLIX",2)Officer Black Belt (2024)
+#EXTINF:-1 tvg-id="" tvg-name="2)Officer Black Belt (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfA_JKIglsbs3UXAgG9UklBDTpug2EAFo0fZ7rcKyzZGSh199Tdc4pbrGpgvhYzfxJ-GuJrzE47N8f_aWzZzwf3roo_AJNizTKS5f_SKtgrvRxJhtWNCV4eYtaoaJoJrwLACEbHQyM3mq1-0pNTeWryOpfZ8tzqjbgdW-pi32hGCocPIvOoLET6pKtsw3VsOWAaAHlrGd8TB-BrZiALEPWqUHMSNmLxobjTXeiICCCCIlNiE74_Ro--gfVQuLysjptTqVwM2JqUoGSVGeZWjCD8t1i_jmx2A19XehyBM7ra6iww0mnlO5zg1.jpg?r=7a3" group-title="VOD NETFLIX",2)Officer Black Belt (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Cop: Axel F (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYNMyKzy7s-hn2l-t3EnauEvqwJx4hw2dZZs-cywS4ewX51BZmppTaNPAzL8cg1fJ-FGhoXJjUFzuSfaASUsn1FirJK22izMgcOhyN1FBissoYx0hJtaqRzlT25bGxHSHcsC.jpg?r=6b2" group-title="â–¶ VOD NETFLIX",Beverly Hills Cop: Axel F (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Cop: Axel F (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYNMyKzy7s-hn2l-t3EnauEvqwJx4hw2dZZs-cywS4ewX51BZmppTaNPAzL8cg1fJ-FGhoXJjUFzuSfaASUsn1FirJK22izMgcOhyN1FBissoYx0hJtaqRzlT25bGxHSHcsC.jpg?r=6b2" group-title="VOD NETFLIX",Beverly Hills Cop: Axel F (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Union (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWW54ZhJ2VMZRW6yl9gcxwHA361wvvnSL6mzS8y_FChLhJDD6a-AmDTrmtQGi0MgBRgvjrJDN-Kz1230OitggefGnqjyrETkALHujUtqJ9b9YU3UDXNMRaW2zMdSMJfVX3EA.jpg?r=f00" group-title="â–¶ VOD NETFLIX",The Union (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The Union (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWW54ZhJ2VMZRW6yl9gcxwHA361wvvnSL6mzS8y_FChLhJDD6a-AmDTrmtQGi0MgBRgvjrJDN-Kz1230OitggefGnqjyrETkALHujUtqJ9b9YU3UDXNMRaW2zMdSMJfVX3EA.jpg?r=f00" group-title="VOD NETFLIX",The Union (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1) Bangkok Breaking: Heaven and Hell (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWczNzH54EuK1YIhsXfQLGCMWOE6SKiB4dGe_mQoQ2Ob_t7Zz7DLBhLTSz2gWGpZmU75OXSpyZIG7kK0hsksBhqALZR1lVPiz3KZBiZ-I11YT6KY1-QaZZ_jRyYRoHdpd5AoYAVkipE57fjrDXGH2yr7NPni7vIoEUzT8-PYIz8J727oMoXgXsdfKrlae1hAK3dIdesuGumijZ24AgNB7TOQ1svjjc9cJSTcp2BgTcI25pCX2g08cULl6YKmVv5Q8KFQRmdGmdzfkIwqYgxtleyKN-YawdMunAZUqZyz4Uk0lI2uh0gxI_W0.jpg?r=0f6" group-title="â–¶ VOD NETFLIX",1) Bangkok Breaking: Heaven and Hell (2024)
+#EXTINF:-1 tvg-id="" tvg-name="1) Bangkok Breaking: Heaven and Hell (2024)" tvg-logo="https://occ-0-3524-58.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWczNzH54EuK1YIhsXfQLGCMWOE6SKiB4dGe_mQoQ2Ob_t7Zz7DLBhLTSz2gWGpZmU75OXSpyZIG7kK0hsksBhqALZR1lVPiz3KZBiZ-I11YT6KY1-QaZZ_jRyYRoHdpd5AoYAVkipE57fjrDXGH2yr7NPni7vIoEUzT8-PYIz8J727oMoXgXsdfKrlae1hAK3dIdesuGumijZ24AgNB7TOQ1svjjc9cJSTcp2BgTcI25pCX2g08cULl6YKmVv5Q8KFQRmdGmdzfkIwqYgxtleyKN-YawdMunAZUqZyz4Uk0lI2uh0gxI_W0.jpg?r=0f6" group-title="VOD NETFLIX",1) Bangkok Breaking: Heaven and Hell (2024)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rombongan Cik Kiah ke AJL (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmkgJWcqePytq2Nx49qjko4OM1l.jpg" group-title="â–¶ VOD MALAY",Rombongan Cik Kiah ke AJL (2023)
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1061.mp4
