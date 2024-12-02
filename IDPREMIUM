@@ -2,21 +2,20 @@
 
 ############
 
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
-http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
-http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
-http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
-http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
-http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
-http://d1w72er2qn2fg9.cloudfront.net/aec.mpd
-http://d1w72er2qn2fg9.cloudfront.net/qj.mpd
-http://d1w72er2qn2fg9.cloudfront.n
-et/aod.mpd
-http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
-http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
-http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
-http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
-http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
+http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
+http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
+http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
+http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
+http://d37lxn4ksn51zz.cloudfront.net/vin.mpd
+http://d37lxn4ksn51zz.cloudfront.net/thang.mpd
+http://d37lxn4ksn51zz.cloudfront.net/aec.mpd
+http://d37lxn4ksn51zz.cloudfront.net/qj.mpd
+http://d37lxn4ksn51zz.cloudfront.net/aod.mpd
+http://d37lxn4ksn51zz.cloudfront.net/bola1.mpd
+http://d37lxn4ksn51zz.cloudfront.net/bola2.mpd
+http://d37lxn4ksn51zz.cloudfront.net/grand.mpd
+http://d37lxn4ksn51zz.cloudfront.net/premier1.mpd
+http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
 
 ###########
 
@@ -136,29 +135,27 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp.perfecttv.net/prima.mpd
+http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://perfecttv.net/logo/ria.png" ,119 Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
+http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://perfecttv.net/logo/warna.png" ,120 Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp.perfecttv.net/warna.mpd
-
+http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://perfecttv.net/logo/citra.png" ,121 Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp.perfecttv.net/citra.mpd
-
+http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="113.astro" tvg-logo="https://perfecttv.net/logo/aura.png" ,122 Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
