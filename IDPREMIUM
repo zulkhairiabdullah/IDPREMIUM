@@ -249,12 +249,17 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda
 =====chinese======
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/307/
+#EXTINF:-1 tvg-id="355" tvg-name="Astro AOD 355" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" tvg-logo="https://iili.io/1NBYsR.png",Astro AOD CH355
+http://d37lxn4ksn51zz.cloudfront.net/aod.mpd
+
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd3ptZjdYdUhlNVgxa0FKX2pRLWdmQ0tFcDlQSHc4MGI0aW4tWHNvZUx4MDByX2FzUkpveEJpSU5Ja0x6NW5VdFhrY1VEeVVFTnpNWHhmYUNONnVZLVdzVjhzb21ZU1RJYXpXQ2VsbFJ3Smg1LVFKNmVVcHViZTExblhud0pkaWRneXNpWkZiU3RIcmNPQjQzTnVQS05ZM3puQWhfQ3JnbTBoQTk4MHNubmJnWG43ZTNWQ05YVGdrMU8zMFg1YkdnNkcyMW9NY1RWREtqR1l2NlM4cHl0cG5XUExEYUV5Y01fTENiTVd0VFI4LUlwazZ0c2p5QUZKdkNUWG1udENjX29semlJT3JGTVdKWDZLSmMxNXlTa2hXeDFVbnl5YjZQQnJGaGFERjFnX0xWazJCMkJVeVpacWZpMndBVEwtaGw5UmNfUm9LblUyeXRuWWREZnFMbU1sbFJscmdqcTItY2pxMEYwWWdxWkRwalJ2ZUR3X1VlU1l5LWlpSmIzLXhIWmN5Y1VNRjRUYkNjY2h5STBJdlpNSTB5eklscy1NczBoeDFUS0dsQjR1dXBJNkpUN3FGNWt0YjhSZXVJb0xfZnVRbHkzWHFwbDQzRXlXb2g3OERwMGtoVnBSYnlYT2NiZ1YxbExwUVZZTDB3dkQ0U19Ra2o1blVfVDhHSmJiUEE4PSZjb250ZXh0VHlwZT1ub25lJmlkPTE5MTU1ODU5IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImYwZWYyMzNhMDAyOTRhZjQ4NDMxY2FlOWExNDY1MTE3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHd6bWY3WHVIZTVYMWtBSl9qUS1nZkNLRXA5UEh3ODBiNGluLVhzb2VMeDAwcl9hc1JKb3hCaUlOSWtMejVuVXRYa2NVRHlVRU56TVh4ZmFDTjZ1WS1Xc1Y4c29tWVNUSWF6V0NlbGxSd0poNS1RSjZlVXB1YmUxMW5YbndKZGlkZ3lzaVpGYlN0SHJjT0I0M051UEtOWTN6bkFoX0NyZ20waEE5ODBzbm5iZ1huN2UzVkNOWFRnazFPMzBYNWJHZzZHMjFvTWNUVkRLakdZdjZTOHB5dHBuV1BMRGFFeWNNX0xDYk1XdFRSOC1JcGs2dHNqeUFGSnZDVFhtbnRDY19vbHppSU9yRk1XSlg2S0pjMTV5U2toV3gxVW55eWI2UEJyRmhhREYxZ19MVmsyQjJCVXlaWnFmaTJ3QVRMLWhsOVJjX1JvS25VMnl0bllkRGZxTG1NbGxSbHJnanEyLWNqcTBGMFlncVpEcGpSdmVEd19VZVNZeS1paUpiMy14SFpjeWNVTUY0VGJDY2NoeUkwSXZaTUkweXpJbHMtTXMwaHgxVEtHbEI0dXVwSTZKVDdxRjVrdGI4UmV1SW9MX2Z1UWx5M1hxcGw0M0V5V29oNzhEcDBraFZwUmJ5WE9jYmdWMWxMcFFWWUwwd3ZENFNfUWtqNW5VX1Q4R0piYlBBOD0iLCJ1ZGlkIjoiM2E0NTk0ZGItYjhmNS00MTI5LWFhMmEtYWUyZmMwNjk0NmYyX1dFQi0zMDRiZjViNS05ZTAzLTQ3YjctZDMyOS0yZmIxODFlM2I2NTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=RZrfh%2bunEEIRsRqTrF73PU8tZRw%3d&sessionId=ee269877-292d-9e12-c8ac-a9bff5d3aeff:2b597008-7ede-ebad-a5e3-4c674c2ef712&clientTag=html5:v3.17.21&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2FlYy1oZC8xNDk3ODI0L3BsYXllcj9yZWRpcmVjdF91cmw9L3BsYXkvYWVjLWhkLzE0OTc4MjQvcGxheWVy
-https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+http://d37lxn4ksn51zz.cloudfront.net/aec.mpd
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="333.astro" tvg-logo="https://perfecttv.net/logo/huaheedai.png" group-logo="" group-title ="",125 Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -269,7 +274,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://perfecttv.net/logo/qj.png" ,127 QJ
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YejhQTXBRZkhNMms0c3NsUWFoT09jTkZOZGFzYUVubXNzU0ZRM3BqTmJoRkVScklYblN0UmRpMzRqb0kxdG1xNFNxVlFMZG5fX1pPRzB5ZVktYm9MX0d0ZTd1aW9yYWEtUWd3dGNJVHNLQmp1a0VQYTlvd0pCenhZbHp0WDdrelZ4bklocXF6aTBSMkdtcHBjNENRd3F3WXlWWjN5MmlIUFJkcVVyby01OURaMGVXVWVQTW9uSlFHbGRrZlVsZ3l5WjlLanJhOGtsSjRoWk1BdENJNHFVQ0g5Z0tkRW1NZm0xRXpwdXNPSlFYamJ6WmZOOUVvM2RUSnpPT3dJaFRsWnRQbklBMFdjdEUzMFBDbEp0OGJOUzBoV0VrVkREQk5KaFhtdnhJT2JrVDNWUkQzeFNPR3JOaUdsOG1vWDZiODlLYmVBWUxvbmplYnpZZllBRGVQYVFFSXBEU1dfV09XWXFfaDREbEVvQ2NlaGFacFB4cnZweXRkaWVHMkVLcF85dzM5aTB5YVRDSVQ4UDJoWElJaU1UaFM1bFU1RjZiMWFBNTZBMUhfdXk4cnRtcXVGZ2VvTjFiM1BqZFNIRjJ6d2N3d3JVQXQyWVQ1RHlzRXdKUC1MNEtneVhsSG85T3RIaWFaN0RPRWNfZG1BPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xOTE1NTk0NSIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJkOGI1YjhhMjhmZGY0NDEzOGJmYzllOGU3MjVjNmVjYSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h6OFBNcFFmSE0yazRzc2xRYWhPT2NORk5kYXNhRW5tc3NTRlEzcGpOYmhGRVJySVhuU3RSZGkzNGpvSTF0bXE0U3FWUUxkbl9fWk9HMHllWS1ib0xfR3RlN3Vpb3JhYS1RZ3d0Y0lUc0tCanVrRVBhOW93SkJ6eFlsenRYN2t6VnhuSWhxcXppMFIyR21wcGM0Q1F3cXdZeVZaM3kyaUhQUmRxVXJvLTU5RFowZVdVZVBNb25KUUdsZGtmVWxneXlaOUtqcmE4a2xKNGhaTUF0Q0k0cVVDSDlnS2RFbU1mbTFFenB1c09KUVhqYnpaZk45RW8zZFRKek9Pd0loVGxadFBuSUEwV2N0RTMwUENsSnQ4Yk5TMGhXRWtWRERCTkpoWG12eElPYmtUM1ZSRDN4U09Hck5pR2w4bW9YNmI4OUtiZUFZTG9uamViellmWUFEZVBhUUVJcERTV19XT1dZcV9oNERsRW9DY2VoYVpwUHhydnB5dGRpZUcyRUtwXzl3MzlpMHlhVENJVDhQMmhYSUlpTVRoUzVsVTVGNmIxYUE1NkExSF91eThydG1xdUZnZW9OMWIzUGpkU0hGMnp3Y3d3clVBdDJZVDVEeXNFd0pQLUw0S2d5WGxIbzlPdEhpYVo3RE9FY19kbUE9PSIsInVkaWQiOiIzYTQ1OTRkYi1iOGY1LTQxMjktYWEyYS1hZTJmYzA2OTQ2ZjJfV0VCLTQ1YmM5OTE0LTY0OGUtOWM4Yi01MzBhLWQwMzdjMzg5NzU0YSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0=&signature=WljKdXyHtqaH0TOeOJ3o2ewfMDo=&sessionId=f0b1111b-ce54-52c3-b067-860cf87ce5c0:41ef69ec-047c-b268-b3ef-41746931d9a9&clientTag=html5:v3.17.21&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L3FqLWhkLzE0OTc4MjMvcGxheWVyP2xpbmVhcklkPTEwMzE0MDE2MCZpc0xpdmU9dHJ1ZQ=
 #KODIPROP:inputstream.adaptive.license_type=widevine
-https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
+http://d37lxn4ksn51zz.cloudfront.net/qj.mpd
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-name="TVB Jade" group-title="CHINESE" group-logo="" tvg-logo="https://perfecttv.net/logo/tvbjade.png",128 TVB Jade
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -846,19 +851,19 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
 ======sport=====
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="âš½ï¸Ž SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/sukanrtm.png", 700 RTM Sukan
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/sukanrtm.png", 700 RTM Sukan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="âš½ï¸Ž SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/arena.png",801 Arena
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/arena.png",801 Arena
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="âš½ï¸Ž SPORTS"  tvg-logo="https://perfecttv.net/logo/sportuhd.png",805 Astro UHD
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="SPORTS"  tvg-logo="https://perfecttv.net/logo/sportuhd.png",805 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -866,7 +871,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="âš½ï¸Ž SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague3.png",808 Premier League 3
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague3.png",808 Premier League 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
